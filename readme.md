@@ -1,0 +1,3 @@
+- Chạy lần đầu: twitter_crawler.py -c <twitter-link>
+- Chạy lần sau: twitter_crawler.py <twitter-link>
+- Result được lưu ở out/
